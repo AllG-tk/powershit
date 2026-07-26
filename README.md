@@ -1,4 +1,4 @@
-# para empezar abre tu terminal Powershell
+# ...para empezar abre tu terminal Powershell
 comando para powershell
 
 # Playbook PowerShell - Investigación de Procesos
