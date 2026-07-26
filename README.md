@@ -1,4 +1,4 @@
-# powershitt
+# para empezar abre tu terminal Powershell
 comando para powershell
 
 # Playbook PowerShell - Investigación de Procesos
