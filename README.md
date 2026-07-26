@@ -1,0 +1,2 @@
+# powershit
+comando para powershell
